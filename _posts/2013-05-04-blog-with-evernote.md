@@ -19,4 +19,4 @@ I love the simplicity of Jekyll. However, I'm still lazy to starting to write an
   
 
 
-[0]: http://blogwithevernote.herokuapp.com
+[0]: http://blogwithEvernote.com
