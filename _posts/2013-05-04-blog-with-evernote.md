@@ -13,7 +13,7 @@ Yes, I'm blogging with the developer-friendly _\`git commit\`_ and _\`git push\`
 I love the simplicity of Jekyll. However, I'm still lazy to starting to write an article. I think, If I can blog just like I take note. Then I will blog more. I write a lot of notes in Evernote. So my idea is, writing note in Evernote and automatically publishing to Github.
 
   
-"[Blog with Evernote][0]" is the result of my last 30 hours. It does exactly what I want, automatically publish my note into a blog post.
+"[Blog with Evernote][0]" is the result of my last 30 hours. It does exactly what I want, automatically publish my note into a blog post. Good night!
 
   
   
